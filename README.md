@@ -47,3 +47,7 @@ For any questions or suggestions, please feel free to contact me on LinkedIn.
 
 ![Index](index.png)
 ![Prediction](prediction.png)
+=======
+# campus-recruitment-prediction
+A Machine Learning project built using Python and Scikit-learn to predict campus recruitment outcomes based on student academic performance and skill sets. Includes data preprocessing, feature selection, model training, and evaluation.
+>>>>>>> 0c84fa30303653ecb98457715005db753013e500
